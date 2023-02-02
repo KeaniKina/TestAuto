@@ -6,9 +6,11 @@ import edu.wpi.first.wpilibj2.command.CommandBase;
 public class ExampleCommand extends CommandBase {
 
 
+  // CLASS CONSTRUCTOR
   public ExampleCommand(ExampleSubsystem subsystem) {
-    
+
   }
+
 
   @Override
   public void initialize() {
